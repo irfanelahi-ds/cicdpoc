@@ -1,3 +1,3 @@
 object HelloUniverse extends App {
-print("hello there")
+print("hello jenkins")
 }
